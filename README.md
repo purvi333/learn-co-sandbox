@@ -13,5 +13,5 @@ input = ""
 while input != "Mommmm!!"
   puts "Stop hitting yourself!"
   input = gets.chomp
+else puts "OK"
 end
-print "OK"
